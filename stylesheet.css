@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+}
+h2 {
+    background-color: darkgreen;
+    padding: 10px 60px;
+    text-align: center;
+}
+
+input {
+    float: left;
+  
+    margin-right: 0;
+    padding: 15px;
+    border: none;
+}
+
+.addBtn {
+    display: inline-block;
+    width: 25%;
+    margin-left: 0;
+    padding: 15px;
+    background: lightgreen;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: mediumseagreen;
+    font-size: 18px;
+    text-align: left;
+    
+}
